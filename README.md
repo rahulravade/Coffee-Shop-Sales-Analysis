@@ -27,7 +27,8 @@ This dataset contains transaction and sales records of a Coffee Shop store. Each
 - **Month**: Month of the transaction.
 
 
-## Usage
+## Recommended  Analysis
+
 This dataset can be used for various analyses such as:
 - How do sales vary by day of the week and hour of the day?
 - Are there any peak times for sales activity?
