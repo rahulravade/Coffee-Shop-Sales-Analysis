@@ -38,6 +38,7 @@ This dataset can be used for various analyses such as:
 - Which products are the best-selling in terms of quantity and revenue?
 - How do sales vary by product category and type?
 
+**Recommended Analysis Solution Added with PPT file.**
 
 ## Data Preprocessing
 - Check for missing values and handle accordingly.
