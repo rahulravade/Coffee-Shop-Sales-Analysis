@@ -7,6 +7,8 @@ This dataset contains transaction and sales records of a Coffee Shop store. Each
 - Number of Rows: 149117
 - Number of Columns: 18
 
+## LinkedIn Post
+- https://www.linkedin.com/posts/rahul-ravade12_dataanalytics-excel-dataanalyst-activity-7171534431369859073-VUFz?utm_source=share&utm_medium=member_desktop
 
 ## Data Set Columns
 - **transaction_time**: Time of the transaction in HH:MM:SS format.
